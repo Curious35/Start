@@ -1,7 +1,7 @@
 package com.kvv.start;
 
 /**
- *
+ * Выставляется итоговая оценка за пройденное задание
  * @author Kukushkin V.
  */
 import javax.swing.*;

@@ -1,7 +1,7 @@
 package com.kvv.start;
 
 /**
- *
+ * Всякая всячина - вопросы, варианты ответов, картинки на страницах с вопросами
  * @author Kukushkin V.
  */
 import javax.swing.*;

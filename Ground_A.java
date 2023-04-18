@@ -1,7 +1,7 @@
 package com.kvv.start;
 
 /**
- *
+ * Уровень попроще
  * @author Kukushkin V.
  */
 import javax.swing.*;
